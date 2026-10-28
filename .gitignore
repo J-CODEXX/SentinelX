@@ -1,0 +1,17 @@
+# Compiled Java files
+bin/
+*.class
+
+# IDE files
+.classpath
+.project
+.settings/
+.vscode/
+
+# Runtime/generated data
+data/evidence/*
+data/reports/*
+
+# Environment/secrets
+.env
+*.env
